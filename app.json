@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "CreatorEarn AI",
+    "slug": "creator-earn-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#0f172a"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.creator.earn.ai"
+    },
+    "android": {
+      "package": "com.creator.earn.ai"
+    }
+  }
+}
